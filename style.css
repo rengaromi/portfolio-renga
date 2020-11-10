@@ -1,0 +1,38 @@
+#Encabezado{
+    height: 100px;
+    display:block;
+    margin:auto;
+    }
+
+#pieDeEncabezado{
+   text-align: center;
+   font-family: 'Montserrat', sans-serif;
+}
+
+#instruccion{
+    text-align: center;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 10px;
+}
+
+#izquierda, #derecha{
+    display:block;
+    margin:auto;
+}
+
+#dibujoUno, #dibujoDos, #dibujoTres{
+    height: 500px;
+    display:block;
+    margin:auto;
+}
+
+#tituloUno, #tituloDos, #tituloTres{
+    text-align: center;
+   font-family: 'Montserrat', sans-serif;
+
+}
+
+#descripcionUno, #descripcionDos, #descripcionTres{text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
